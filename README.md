@@ -34,6 +34,6 @@ O resultado é um ebook abrangente e bem estruturado que serve como um guia comp
 - Exemplos práticos de scripts de automação.
 - Dicas e truques para otimizar e depurar scripts de Selenium.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar um ebook utilizando IAs foi um desafio interessante. A integração das diferentes ferramentas de IA possibilitou a produção de conteúdo de alta qualidade de forma eficiente. A utilização de ChatGPT para geração de texto e Leonardo.IA para criação de gráficos complementou-se perfeitamente, resultando em um material didático e visualmente atraente. Este processo destacou o potencial das IAs generativas em projetos educacionais e de publicação.
 
